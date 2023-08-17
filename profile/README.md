@@ -9,6 +9,8 @@
   <br/><br/>
 </p>
 
+[![Open Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2FCapgo%2Fbounties%3Fstatus%3Dopen)](https://console.algora.io/org/Capgo/bounties?status=open)
+[![Rewarded Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2FCapgo%2Fbounties%3Fstatus%3Dcompleted)](https://console.algora.io/org/Capgo/bounties?status=completed)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/VnYRvBfgA6)
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://www.npmjs.com/search?q=%40capgo)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/Capgo_app)
@@ -26,3 +28,21 @@
 
 ### GitHub Contributor Over Time
 [![GitHub Contributor Over Time](https://contributor-overtime-api.git-contributor.com/contributors-svg?chart=contributorOverTime&repo=Cap-go/capacitor-updater)](https://git-contributor.com?chart=contributorOverTime&repo=Cap-go/capacitor-updater)
+
+# Get paid by helping Capgo
+
+## Open Bounties
+<a href="https://console.algora.io/org/Capgo/bounties?status=open">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/Capgo/bounties.png?p=0&status=open&theme=dark">
+    <img alt="Bounties of Capgo" src="https://console.algora.io/api/og/Capgo/bounties.png?p=0&status=open&theme=light">
+  </picture>
+</a>
+
+## Leaderboard
+<a href="https://console.algora.io/org/Capgo/leaderboard">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/Capgo/leaderboard.png?p=0&theme=dark">
+    <img alt="Leaderboard of Capgo" src="https://console.algora.io/api/og/Capgo/leaderboard.png?p=0&theme=light">
+  </picture>
+</a>
