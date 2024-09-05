@@ -35,6 +35,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-flash)](https://github.com/Cap-go/capacitor-flash)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-native-biometric)](https://github.com/Cap-go/capacitor-native-biometric)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-mute)](https://github.com/Cap-go/capacitor-mute)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=ivs-player)](https://github.com/Cap-go/ivs-player)
 
 ## Stargazers over time
 
