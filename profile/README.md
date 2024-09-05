@@ -19,8 +19,22 @@
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 
 
-### Main project
+### Our Plugins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-updater)](https://github.com/Cap-go/capacitor-updater)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-inappbrowser)](https://github.com/Cap-go/capacitor-inappbrowser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-shake)](https://github.com/Cap-go/capacitor-shake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-data-storage-sqlite)](https://github.com/Cap-go/capacitor-data-storage-sqlite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=native-market)](https://github.com/Cap-go/native-market)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-uploader)](https://github.com/Cap-go/capacitor-uploader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-nativegeocoder)](https://github.com/Cap-go/capacitor-nativegeocoder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-crisp)](https://github.com/Cap-go/capacitor-crisp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=home-indicator)](https://github.com/Cap-go/home-indicator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-screen-recorder)](https://github.com/Cap-go/capacitor-screen-recorder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-navigation-bar)](https://github.com/Cap-go/capacitor-navigation-bar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=native-audio)](https://github.com/Cap-go/native-audio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-flash)](https://github.com/Cap-go/capacitor-flash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-native-biometric)](https://github.com/Cap-go/capacitor-native-biometric)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-mute)](https://github.com/Cap-go/capacitor-mute)
 
 ## Stargazers over time
 
