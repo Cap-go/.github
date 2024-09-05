@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to the <a href="https://capgo.app">Capgo</a> community!</h1>
 <br/>
- <a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/></a>
-
+<p align="center">
+ <a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' style="width:50%; margin: auto" alt='Capgo - Instant updates for capacitor'/></a>
+</p>
 <div align="center">
   <h2><a href="https://capgo.app/?ref=plugin"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
   <h2><a href="https://capgo.app/consulting/?ref=plugin"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
@@ -20,6 +21,15 @@
 [![GitHub latest commit](https://badgen.net/github/last-commit/Cap-go/capacitor-updater/main)](https://GitHub.com/Cap-go/capacitor-updater/commit/)
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 
+
+### Capgo stack
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=CLI)](https://github.com/Cap-go/CLI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capgo)](https://github.com/Cap-go/capgo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=website)](https://github.com/Cap-go/website)
+
+### Our Awesome list
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=awesome-ionic)](https://github.com/Cap-go/awesome-ionic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riderx&theme=blue-green&repo=awesome-capacitor)](https://github.com/riderx/awesome-capacitor)
 
 ### Our Plugins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-updater)](https://github.com/Cap-go/capacitor-updater)
