@@ -21,17 +21,11 @@
 [![GitHub latest commit](https://badgen.net/github/last-commit/Cap-go/capacitor-updater/main)](https://GitHub.com/Cap-go/capacitor-updater/commit/)
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 
-
-### Capgo stack
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=CLI)](https://github.com/Cap-go/CLI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capgo)](https://github.com/Cap-go/capgo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=website)](https://github.com/Cap-go/website)
-
-### Our Awesome list
+### Capgo Awesome list
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=awesome-ionic)](https://github.com/Cap-go/awesome-ionic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riderx&theme=blue-green&repo=awesome-capacitor)](https://github.com/riderx/awesome-capacitor)
 
-### Our Plugins
+### Capgo Plugins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-updater)](https://github.com/Cap-go/capacitor-updater)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevenueCat&theme=blue-green&repo=purchases-capacitor)](https://github.com/@revenuecat/purchases-capacitor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-data-storage-sqlite)](https://github.com/Cap-go/capacitor-data-storage-sqlite)
@@ -51,6 +45,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=ivs-player)](https://github.com/Cap-go/ivs-player)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=home-indicator)](https://github.com/Cap-go/home-indicator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-uploader)](https://github.com/Cap-go/capacitor-uploader)
+
+### Capgo stack
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=CLI)](https://github.com/Cap-go/CLI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capgo)](https://github.com/Cap-go/capgo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=website)](https://github.com/Cap-go/website)
 
 
 ## Stargazers over time
