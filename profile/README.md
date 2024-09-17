@@ -46,6 +46,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=home-indicator)](https://github.com/Cap-go/home-indicator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-uploader)](https://github.com/Cap-go/capacitor-uploader)
 
+### Made by us and gift back to companies
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevenueCat&theme=blue-green&repo=purchases-capacitor)](https://github.com/RevenueCat/purchases-capacitor)
+
+
 ### Capgo stack
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=CLI)](https://github.com/Cap-go/CLI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capgo)](https://github.com/Cap-go/capgo)
