@@ -46,7 +46,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=home-indicator)](https://github.com/Cap-go/home-indicator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-uploader)](https://github.com/Cap-go/capacitor-uploader)
 
-### Made by us and gift back to companies
+### Made by us and transfer back to companies
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevenueCat&theme=blue-green&repo=purchases-capacitor)](https://github.com/RevenueCat/purchases-capacitor)
 
