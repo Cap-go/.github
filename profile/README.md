@@ -27,7 +27,7 @@
 
 ### Capgo Plugins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-updater)](https://github.com/Cap-go/capacitor-updater)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevenueCat&theme=blue-green&repo=purchases-capacitor)](https://github.com/@revenuecat/purchases-capacitor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=native-purchases)](https://github.com/Cap-go/native-purchases)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-data-storage-sqlite)](https://github.com/Cap-go/capacitor-data-storage-sqlite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-inappbrowser)](https://github.com/Cap-go/capacitor-inappbrowser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-native-biometric)](https://github.com/Cap-go/capacitor-native-biometric)
