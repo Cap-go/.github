@@ -45,6 +45,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=ivs-player)](https://github.com/Cap-go/ivs-player)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=home-indicator)](https://github.com/Cap-go/home-indicator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-uploader)](https://github.com/Cap-go/capacitor-uploader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-ricoh360-camera-plugin)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-streamcall)](https://github.com/Cap-go/capacitor-streamcall)
 
 ### Made by us and transfer back to companies
 
