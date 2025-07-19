@@ -3,7 +3,7 @@
  <a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' style="width:50%; margin: auto" alt='Capgo - Instant updates for capacitor'/></a>
 <div align="center">
   <h2><a href="https://capgo.app/?ref=plugin"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
-  <h2><a href="https://capgo.app/consulting/?ref=plugin"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=plugin"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
   Capgo is a instant update system for capacitor &mdash;
   <br/>
   powerful developer experience meets easy deployment.
