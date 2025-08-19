@@ -47,6 +47,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-ricoh360-camera-plugin)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-streamcall)](https://github.com/Cap-go/capacitor-streamcall)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-llm)](https://github.com/Cap-go/capacitor-llm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-android-usagestatsmanager)](https://github.com/Cap-go/capacitor-android-usagestatsmanager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-gtm)](https://github.com/Cap-go/capacitor-gtm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-twilio-voice)](https://github.com/Cap-go/capacitor-twilio-voice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-persistent-account)](https://github.com/Cap-go/capacitor-persistent-account)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-background-geolocation)](https://github.com/Cap-go/capacitor-background-geolocation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-jw-player)](https://github.com/Cap-go/capacitor-jw-player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-autofill-save-password)](https://github.com/Cap-go/capacitor-autofill-save-password)
+
 
 
 ### Made by us and transfer back to companies
