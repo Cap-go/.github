@@ -46,6 +46,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-uploader)](https://github.com/Cap-go/capacitor-uploader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-ricoh360-camera-plugin)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-streamcall)](https://github.com/Cap-go/capacitor-streamcall)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&theme=blue-green&repo=capacitor-llm)](https://github.com/Cap-go/capacitor-llm)
+
 
 ### Made by us and transfer back to companies
 
@@ -62,23 +64,3 @@
 
 [![Stargazers over time](https://starchart.cc/Cap-go/capacitor-updater.svg)](https://starchart.cc/Cap-go/capacitor-updater)
 
-### GitHub Contributor Over Time
-[![GitHub Contributor Over Time](https://contributor-overtime-api.git-contributor.com/contributors-svg?chart=contributorOverTime&repo=Cap-go/capacitor-updater)](https://git-contributor.com?chart=contributorOverTime&repo=Cap-go/capacitor-updater)
-
-# Get paid by helping Capgo
-
-## Open Bounties
-<a href="https://console.algora.io/org/Capgo/bounties?status=open">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/Capgo/bounties.png?p=0&status=open&theme=dark">
-    <img alt="Bounties of Capgo" src="https://console.algora.io/api/og/Capgo/bounties.png?p=0&status=open&theme=light">
-  </picture>
-</a>
-
-## Leaderboard
-<a href="https://console.algora.io/org/Capgo/leaderboard">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/Capgo/leaderboard.png?p=0&theme=dark">
-    <img alt="Leaderboard of Capgo" src="https://console.algora.io/api/og/Capgo/leaderboard.png?p=0&theme=light">
-  </picture>
-</a>
