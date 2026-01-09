@@ -8,6 +8,8 @@
 Capgo is the Expo for Capacitor, providing SDKs, plugins, cloud updates, and native builds for any web framework. Fast on Web, on Native only when needed.
 </p>
 
+[Read the documentation to get started](https://capgo.app/docs/)
+
 ## Who’s using Capgo?
 
 Capgo is trusted by teams worldwide, from startups to large companies building production Capacitor apps.  
