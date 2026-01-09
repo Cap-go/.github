@@ -5,7 +5,7 @@
 <h1 align="left">Welcome to the <a href="https://capgo.app">Capgo</a> community!</h1>
 
 <p align="left">
-  Capgo is the Expo-like platform for Capacitor, a web-native app runtime that runs fully on the Web for fast rendering and directly on native APIs when required. It works with any codebase and any stack, as long as the final output is static web assets, and provides SDKs, plugins, cloud updates, native builds, developer tooling and services.
+Capgo is the Expo for Capacitor, providing SDKs, plugins, cloud updates, and native builds for any web framework. Fast on Web, on Native only when needed.
 </p>
 
 <p align='center'>
