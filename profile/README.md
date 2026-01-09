@@ -3,6 +3,11 @@
 <!-- Last updated: 2026-01-04T17:31:29.989Z -->
 
 <h1 align="left">Welcome to the <a href="https://capgo.app">Capgo</a> community!</h1>
+
+<p align="left">
+  Capgo is the Expo-like platform for Capacitor, a web-native app runtime that runs fully on the Web for fast rendering and directly on native APIs when required. It works with any codebase and any stack, as long as the final output is static web assets, and provides SDKs, plugins, cloud updates, native builds, developer tooling and services.
+</p>
+
 <p align='center'>
   <img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/>
 </p>
