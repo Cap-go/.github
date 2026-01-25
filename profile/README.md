@@ -12,7 +12,7 @@ Capgo is the Expo for Capacitor, providing SDKs, plugins, cloud updates, and nat
 
 ## Community
 
-💬 Join us on [Discord](https://discord.capgo.app) to chat with the Expo community, discuss the release, or ask questions.
+💬 Join us on [Discord](https://discord.capgo.app) to chat with the Capgo community, discuss the release, or ask questions.
 
 ## Who’s using Capgo?
 
