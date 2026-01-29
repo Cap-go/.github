@@ -53,6 +53,41 @@ Explore real-world apps using Capgo in production in the [Showcase](https://capg
 </tr>
 </table>
 
+## Capgo Cloud tools
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3><a href="https://github.com/Cap-go/capgo">Capgo Frontend and backend</a></h3>
+<p>Console and backend to manage Instant update for Capacitor apps</p>
+<p>
+<a href="https://github.com/Cap-go/capgo"><img src="https://img.shields.io/github/stars/Cap-go/capgo?style=flat-square&label=stars" alt="GitHub stars"></a>
+<a href="https://github.com/Cap-go/capgo"><img src="https://img.shields.io/github/forks/Cap-go/capgo?style=flat-square&label=forks" alt="GitHub forks"></a>
+</p>
+<p><a href="https://github.com/Cap-go/capgo">GitHub</a></p>
+</td>
+<td align="center" width="33%">
+<h3><a href="https://github.com/Cap-go/cli">CLI</a></h3>
+<p>Upload and manage your bundles in Capgo cloud</p>
+<p>
+<a href="https://github.com/Cap-go/cli"><img src="https://img.shields.io/github/stars/Cap-go/cli?style=flat-square&label=stars" alt="GitHub stars"></a>
+<a href="https://github.com/Cap-go/cli"><img src="https://img.shields.io/github/forks/Cap-go/cli?style=flat-square&label=forks" alt="GitHub forks"></a>
+</p>
+<p><a href="https://github.com/Cap-go/cli">GitHub</a></p>
+</td>
+<td align="center" width="33%">
+<h3><a href="https://github.com/Cap-go/capacitor-updater/">Updater</a></h3>
+<p><code>@capgo/capacitor-updater</code></p>
+<p>Deploy live updates instantly to your users without app store review delays</p>
+<p>
+<a href="https://www.npmjs.com/package/@capgo/capacitor-updater"><img src="https://img.shields.io/npm/dw/@capgo/capacitor-updater?style=flat-square&label=downloads" alt="npm downloads"></a>
+<a href="https://github.com/Cap-go/capacitor-updater/"><img src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=flat-square&label=stars" alt="GitHub stars"></a>
+</p>
+<p><a href="https://capgo.app/plugins/updater/">Docs</a> | <a href="https://github.com/Cap-go/capacitor-updater/">GitHub</a></p>
+</td>
+</tr>
+</table>
+
 ## Capacitor Plugins
 
 A collection of high-quality Capacitor plugins maintained by [Capgo](https://capgo.app).
@@ -61,7 +96,7 @@ A collection of high-quality Capacitor plugins maintained by [Capgo](https://cap
 
 <table>
 <tr>
-<td align="center" width="33%">
+  <td align="center" width="33%">
 <h3><a href="https://github.com/Cap-go/capacitor-updater/">Updater</a></h3>
 <p><code>@capgo/capacitor-updater</code></p>
 <p>Deploy live updates instantly to your users without app store review delays</p>
