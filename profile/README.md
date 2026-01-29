@@ -24,8 +24,6 @@ Explore real-world apps using Capgo in production in the [Showcase](https://capg
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/VnYRvBfgA6)
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://www.npmjs.com/search?q=%40capgo)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/Capgo_app)
-![npm](https://img.shields.io/npm/dm/@capgo/capacitor-updater)
-[![GitHub latest commit](https://badgen.net/github/last-commit/Cap-go/capacitor-updater/main)](https://GitHub.com/Cap-go/capacitor-updater/commit/)
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 
 ## Awesome Lists
