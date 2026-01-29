@@ -58,7 +58,7 @@ Explore real-world apps using Capgo in production in the [Showcase](https://capg
 <table>
 <tr>
 <td align="center" width="33%">
-<h3><a href="https://github.com/Cap-go/capgo">Capgo Frontend and backend</a></h3>
+<h3><a href="https://github.com/Cap-go/capgo">Capgo Console/a></h3>
 <p>Console and backend to manage Instant update for Capacitor apps</p>
 <p>
 <a href="https://github.com/Cap-go/capgo"><img src="https://img.shields.io/github/stars/Cap-go/capgo?style=flat-square&label=stars" alt="GitHub stars"></a>
