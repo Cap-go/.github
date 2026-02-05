@@ -1,25 +1,40 @@
-Thanks for helping make Capgo safe for everyone.
-
 # Security
 
-Capgo takes the security of our software seriously, including all of the open source code repositories managed through [this GitHub organization](https://github.com/Cap-go).
+Thanks for helping make Capgo safe for everyone.
 
-## Reporting a Vulnerability
+Capgo takes the security of our software seriously, including all open-source repositories in the Cap-go GitHub organization:
+https://github.com/Cap-go
 
-<ins>**If you think you've found a security issue, please DO NOT report, discuss, or describe it on Discord or GitHub Issue.**<ins>
+## Reporting a vulnerability
 
-**All security-related issues, concerns, and problems must be reported via [Github advisory](https://github.com/Cap-go/capgo/security/advisories/new) and email to: security@capgo.app.**
+Do not report, discuss, or disclose security issues on Discord, GitHub Issues, or any public forum.
 
-Please include everything necessary to reproduce the problem when sending over information, including an example and the eaxact code who is problematic and how to fix it. Please don't add explicit details about the security issue you are reporting in any of the repository's contents.
+All security reports must be submitted through GitHub Security Advisories for the relevant repository:
+- https://github.com/Cap-go/capgo/security/advisories/new
+- https://github.com/Cap-go/CLI/security/advisories/new
+- https://github.com/Cap-go/capacitor-updater/security/advisories/new
 
-**_This is detrimental to the safety of all Capgo users. No exceptions._**
+Please include:
+- a clear description of the issue and its impact
+- reproducible steps, proof of concept, and environment details
+- the exact file path and line numbers where the issue exists
+- any suggested fix (optional)
 
-## Embargo Policy
+Do not publish details in any repository content until we coordinate disclosure.
 
-Capgo's Security Team members must share information only within the Capgo Core and Security teams on a need-to-know basis to fix the related issue in Capgo. The information members and others receive through participation in this group must not be made public, shared, or even hinted otherwise, except with prior explicit approval (which shall be handled on a case-by-case basis). This holds true until the agreed-upon public disclosure date/time is satisfied.
+For bug bounty details and payout rules, see:
+https://capgo.app/bug-bounty/
 
-As a clarifying example, this policy forbids Capgo Security members from sharing list information with their employers; unless prior arrangements have been made directly with an employer.
+## Bug bounty payouts
 
-In the unfortunate event that you share the information beyond what is allowed by this policy, you must urgently inform the Capgo Security Team of exactly what information leaked and to whom, as well as the steps that will be taken to prevent future leaks.
+Payments are issued only after we have identified the issue, fixed it, opened a pull request, and you have verified after release that the fix works for you. This process typically takes 3-5 days. Please do not send messages like "to get paid"; payment happens only once the release is live and you have tested and validated the fix.
 
-**Repeated offenses may lead to the removal from the Security or Capgo team.**
+## Embargo policy
+
+Security information must be shared only within the Capgo Core and Security teams on a need-to-know basis. Do not make the information public, share it externally, or hint at it without explicit prior approval. This holds until the agreed public disclosure date and time.
+
+As a clarifying example, this policy forbids sharing security details with employers unless prior arrangements have been made.
+
+If information leaks, you must urgently inform the Capgo Security Team with exactly what was shared, with whom, and what steps will prevent future leaks.
+
+Repeated offenses may lead to removal from the Security or Capgo team.
