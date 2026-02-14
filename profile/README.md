@@ -47,6 +47,43 @@
 </tr>
 </table>
 
+## Capgo Cloud
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3><a href="https://github.com/Cap-go/capacitor-updater/">Updater</a></h3>
+<p><code>@capgo/capacitor-updater</code></p>
+<p>Deploy live updates instantly to your users without app store review delays</p>
+<p>
+<a href="https://www.npmjs.com/package/@capgo/capacitor-updater"><img src="https://img.shields.io/npm/dw/@capgo/capacitor-updater?style=flat-square&label=downloads" alt="npm downloads"></a>
+<a href="https://github.com/Cap-go/capacitor-updater/"><img src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=flat-square&label=stars" alt="GitHub stars"></a>
+</p>
+<p><a href="https://capgo.app/plugins/updater/">Docs</a> | <a href="https://github.com/Cap-go/capacitor-updater/">GitHub</a></p>
+</td>
+<td align="center" width="33%">
+<h3><a href="https://github.com/Cap-go/capgo/">Capgo Console</a></h3>
+<p><code>Capgo Console</code></p>
+<p>Front and back base on Supabase</p>
+<p>
+<a href="https://github.com/Cap-go/capgo/"><img src="https://img.shields.io/github/stars/Cap-go/capgo?style=flat-square&label=stars" alt="GitHub stars"></a>
+</p>
+<p><a href="https://capgo.app/docs/">Docs</a> | <a href="https://github.com/Cap-go/capgo/">GitHub</a></p>
+</td>
+<td align="center" width="33%">
+<h3><a href="https://github.com/Cap-go/CLI/">Capgo CLI</a></h3>
+<p><code>@capgo/cli</code></p>
+<p>Manage/Upload your Cloud/ Self hosted apps from CLI</p>
+<p>
+<a href="https://www.npmjs.com/package/@capgo/cli"><img src="https://img.shields.io/npm/dw/@capgo/cli?style=flat-square&label=downloads" alt="npm downloads"></a>
+<a href="https://github.com/Cap-go/cli/"><img src="https://img.shields.io/github/stars/Cap-go/cli?style=flat-square&label=stars" alt="GitHub stars"></a>
+</p>
+<p><a href="https://capgo.app/docs/cli/">Docs</a> | <a href="https://github.com/Cap-go/cli/">GitHub</a></p>
+</td>
+</tr>
+</table>
+
 ## Capacitor Plugins
 
 A collection of high-quality Capacitor plugins maintained by [Capgo](https://capgo.app).
