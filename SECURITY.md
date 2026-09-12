@@ -10,7 +10,7 @@ https://github.com/Cap-go
 Do not report, discuss, or disclose security issues on Discord, GitHub Issues, or any public forum.
 
 All security reports must be submitted through GitHub Security Advisories for the relevant repository:
-- https://github.com/Cap-go/capgo/security/advisories/new
+- https://github.com/Cap-go/capgo.app/security/advisories/new (primary backend/product repo)
 - https://github.com/Cap-go/CLI/security/advisories/new
 - https://github.com/Cap-go/capacitor-updater/security/advisories/new
 
@@ -27,7 +27,25 @@ https://capgo.app/bug-bounty/
 
 ## Bug bounty payouts
 
-Payments are issued only after we have identified the issue, fixed it, opened a pull request, and you have verified after release that the fix works for you. This process typically takes 3-5 days. Please do not send messages like "to get paid"; payment happens only once the release is live and you have tested and validated the fix.
+Capgo is a small, bootstrapped team. Payments are issued only after the fix is **released** and you have **verified** that the fix works for you. Linking or opening a pull request alone is not enough for payout.
+
+This process typically takes a few days to a few weeks depending on release timing and verification. Please do not send messages like "to get paid"; payment happens only once the release is live and you have tested and validated the fix.
+
+## Out of scope / will be closed
+
+The following are not treated as vulnerabilities and reports will be closed:
+
+- Unauthenticated `channel_self` set, and the designed no-API-key behavior for `/updates` and `/stats`, are intentional product design — do not re-report.
+- Uploader mislabeling encryption on `external_url` bundles is not a Capgo vulnerability.
+- Duplicate reports, reports already fixed on `main` without a new exploit path, and mistaken or incomplete drafts.
+
+For the full out-of-scope list, see https://capgo.app/security/. For bounty amounts and rules, see https://capgo.app/bug-bounty/.
+
+## After you report
+
+- We may close mistaken or duplicate drafts.
+- If we open an intentional fix PR, the advisory stays open and linked until release and disclosure coordination.
+- Side-effect fixes may close the advisory as resolved without a dedicated advisory publish.
 
 ## Embargo policy
 
