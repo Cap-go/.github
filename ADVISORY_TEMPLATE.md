@@ -2,12 +2,12 @@
 
 Use this when opening a GitHub Security Advisory for a Cap-go repository. Paste the filled sections into the advisory description.
 
-Do not report on Discord, public Issues, or any public forum.
+Do not report, discuss, or disclose security issues on Discord, GitHub Issues, or any public forum.
 
 ## Required
 
 - [ ] I read https://capgo.app/security/ (out of scope) and https://capgo.app/bug-bounty/ (payout rules)
-- [ ] This is not an intentional product behavior or a duplicate / already-fixed report
+- [ ] This is not an intentional product behavior, a duplicate, or a report already fixed on `main` without a new exploit path
 
 ### Summary
 One sentence: what breaks and who is affected.
