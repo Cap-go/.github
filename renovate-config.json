@@ -1,0 +1,92 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Shared Renovate preset for Cap-go Capacitor and Cordova plugins. Use with extends github>Cap-go/.github:renovate-config",
+  "extends": [
+    "config:base",
+    "schedule:earlyMondays"
+  ],
+  "dependencyDashboard": false,
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true,
+    "automergeType": "branch",
+    "platformAutomerge": true
+  },
+  "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "matchCurrentVersion": "!/^0/",
+      "automerge": true
+    },
+    {
+      "matchPackagePatterns": [
+        "^com\\.google\\..*"
+      ],
+      "matchCurrentVersion": "/^.*-android$/",
+      "allowedVersions": "/^.*-android$/"
+    },
+    {
+      "matchPackagePatterns": [
+        "^com\\.android\\.tools\\.build\\:gradle$"
+      ],
+      "matchManagers": [
+        "gradle"
+      ],
+      "enabled": false
+    },
+    {
+      "matchManagers": [
+        "swift"
+      ],
+      "matchPackagePatterns": [
+        "^https://github.com/ionic-team/capacitor-swift-pm\\.git$",
+        "^ionic-team/capacitor-swift-pm$",
+        "^capacitor-swift-pm$"
+      ],
+      "allowedVersions": "8.0.0",
+      "enabled": false
+    },
+    {
+      "matchDepTypes": [
+        "peerDependencies"
+      ],
+      "matchPackageNames": [
+        "@capacitor/core"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "enabled": false
+    },
+    {
+      "matchDepTypes": [
+        "peerDependencies"
+      ],
+      "matchPackageNames": [
+        "@capacitor/core"
+      ],
+      "rangeStrategy": "replace",
+      "allowedVersions": "/^>=\\d+\\.0\\.0$/"
+    },
+    {
+      "matchPackageNames": [
+        "androidx.core:core"
+      ],
+      "matchManagers": [
+        "gradle"
+      ],
+      "enabled": false
+    },
+    {
+      "matchManagers": [
+        "gradle-wrapper"
+      ],
+      "allowedVersions": "<9.6",
+      "description": "AGP 8.x needs Gradle 9.5 or lower; lift when plugins move to AGP 9"
+    }
+  ]
+}
