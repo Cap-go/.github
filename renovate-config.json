@@ -73,6 +73,16 @@
     },
     {
       "matchPackageNames": [
+        "androidx.core:core-ktx"
+      ],
+      "matchManagers": [
+        "gradle"
+      ],
+      "allowedVersions": "<1.19.0",
+      "description": "core-ktx 1.19 needs compileSdk 37 and AGP 9.1; lift when plugins move to AGP 9"
+    },
+    {
+      "matchPackageNames": [
         "typescript"
       ],
       "allowedVersions": "<7",
