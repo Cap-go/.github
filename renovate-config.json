@@ -52,21 +52,8 @@
       "matchPackageNames": [
         "@capacitor/core"
       ],
-      "matchUpdateTypes": [
-        "minor",
-        "patch"
-      ],
-      "enabled": false
-    },
-    {
-      "matchDepTypes": [
-        "peerDependencies"
-      ],
-      "matchPackageNames": [
-        "@capacitor/core"
-      ],
-      "rangeStrategy": "replace",
-      "allowedVersions": "/^>=\\d+\\.0\\.0$/"
+      "enabled": false,
+      "description": "Peer @capacitor/core ranges move by hand with each Capacitor major migration, never via Renovate"
     },
     {
       "matchPackageNames": [
