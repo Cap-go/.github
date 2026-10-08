@@ -1,0 +1,82 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Shared Renovate preset for Cap-go Capacitor and Cordova plugins. Use with extends github>Cap-go/.github:renovate-config",
+  "extends": [
+    "config:base",
+    "schedule:earlyMondays"
+  ],
+  "dependencyDashboard": false,
+  "automerge": true,
+  "platformAutomerge": false,
+  "automergeType": "pr",
+  "automergeStrategy": "squash",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true,
+    "automergeType": "branch",
+    "platformAutomerge": false
+  },
+  "packageRules": [
+    {
+      "matchPackagePatterns": [
+        "^com\\.google\\..*"
+      ],
+      "matchCurrentVersion": "/^.*-android$/",
+      "allowedVersions": "/^.*-android$/"
+    },
+    {
+      "matchPackagePatterns": [
+        "^com\\.android\\.tools\\.build\\:gradle$"
+      ],
+      "matchManagers": [
+        "gradle"
+      ],
+      "enabled": false
+    },
+    {
+      "matchManagers": [
+        "swift"
+      ],
+      "matchPackagePatterns": [
+        "^https://github.com/ionic-team/capacitor-swift-pm\\.git$",
+        "^ionic-team/capacitor-swift-pm$",
+        "^capacitor-swift-pm$"
+      ],
+      "allowedVersions": "8.0.0",
+      "enabled": false
+    },
+    {
+      "matchDepTypes": [
+        "peerDependencies"
+      ],
+      "matchPackageNames": [
+        "@capacitor/core"
+      ],
+      "enabled": false,
+      "description": "Peer @capacitor/core ranges move by hand with each Capacitor major migration, never via Renovate"
+    },
+    {
+      "matchPackageNames": [
+        "androidx.core:core"
+      ],
+      "matchManagers": [
+        "gradle"
+      ],
+      "enabled": false
+    },
+    {
+      "matchManagers": [
+        "gradle-wrapper"
+      ],
+      "allowedVersions": "<9.6",
+      "description": "AGP 8.x needs Gradle 9.5 or lower; lift when plugins move to AGP 9"
+    },
+    {
+      "matchPackageNames": [
+        "typescript"
+      ],
+      "allowedVersions": "<7",
+      "description": "TypeScript 7 not supported yet"
+    }
+  ]
+}
