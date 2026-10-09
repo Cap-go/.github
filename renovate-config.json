@@ -6,6 +6,8 @@
     "schedule:earlyMondays"
   ],
   "dependencyDashboard": false,
+  "minimumReleaseAge": "3 days",
+  "internalChecksFilter": "strict",
   "automerge": true,
   "platformAutomerge": false,
   "automergeType": "pr",
@@ -17,6 +19,13 @@
     "platformAutomerge": false
   },
   "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "lockFileMaintenance"
+      ],
+      "minimumReleaseAge": null,
+      "description": "Lock file maintenance has no release timestamp; do not delay it"
+    },
     {
       "matchPackagePatterns": [
         "^com\\.google\\..*"
