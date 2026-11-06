@@ -29,6 +29,8 @@ https://capgo.app/bug-bounty/
 
 Capgo is a small, bootstrapped team. Payments are issued only after the fix is **released** and you have **verified** that the fix works for you. Linking or opening a pull request alone is not enough for payout.
 
+Amounts: reports without a clear exploit path up to $15; exploits with real, reproducible Capgo impact up to $150. We receive many AI-generated, low-effort and duplicate reports, so rewards are capped at $150.
+
 This process typically takes a few days to a few weeks depending on release timing and verification. Please do not send messages like "to get paid"; payment happens only once the release is live and you have tested and validated the fix.
 
 ## Out of scope / will be closed
