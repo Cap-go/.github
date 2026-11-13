@@ -77,8 +77,17 @@
       "matchManagers": [
         "gradle-wrapper"
       ],
-      "allowedVersions": "<9.6",
-      "description": "AGP 8.x needs Gradle 9.5 or lower; lift when plugins move to AGP 9"
+      "enabled": false,
+      "description": "Cap-go plugins follow the official Capacitor Android toolchain. The Gradle wrapper moves by hand with Capacitor, never via Renovate"
+    },
+    {
+      "matchPackageNames": [
+        "/^com\\.android\\.tools\\.build:gradle$/",
+        "/^com\\.android\\.(library|application)/",
+        "/^org\\.jetbrains\\.kotlin[:.]/"
+      ],
+      "enabled": false,
+      "description": "Android Gradle plugin and Kotlin follow the official Capacitor Android toolchain, never via Renovate"
     },
     {
       "matchPackageNames": [
